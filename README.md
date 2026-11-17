@@ -8,3 +8,4 @@
 3. pip install -r requirements.txt
 4. cp .env.example .env  (и заполните значения)
 5. python hello_env.py
+Тестовая строка
